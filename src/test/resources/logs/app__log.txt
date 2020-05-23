@@ -1,0 +1,3 @@
+INFO    2020-05-12 18:10:55,956 [main] devpinoygLogger  - Logging into the application
+INFO    2020-05-12 18:10:59,050 [main] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as C:\Users\vilas\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
+INFO    2020-05-12 18:11:08,887 [main] devpinoygLogger  - Inside Bank Manager Login test

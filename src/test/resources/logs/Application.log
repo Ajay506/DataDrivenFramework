@@ -1,0 +1,6 @@
+INFO    2020-05-23 12:45:21,149 [main] com.selenium.base.TestBase  - Logging into the application
+INFO    2020-05-23 12:45:30,909 [main] com.selenium.base.TestBase  - Launched Chrome Browser Sucessfully
+INFO    2020-05-23 12:45:33,562 [main] com.selenium.base.TestBase  - Navigated to the browser
+INFO    2020-05-23 12:45:35,857 [main] com.selenium.base.TestBase  - Inside Bank Manager Login test
+INFO    2020-05-23 12:45:40,921 [main] com.selenium.base.TestBase  - Inside AddCustomerTest testcase
+INFO    2020-05-23 12:45:42,708 [main] com.selenium.base.TestBase  - Inside OpenAccount test

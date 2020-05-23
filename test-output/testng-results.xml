@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Customer Added successfully]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"href="C:\Ajay\Selenium\TestNGLearning\screenshots\sample.jpg">Screenshot</a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Data Driven Basics" duration-ms="4801" started-at="2020-05-16T11:50:28 IST" finished-at="2020-05-16T11:50:32 IST">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="3549" started-at="2020-05-16T11:50:28 IST" finished-at="2020-05-16T11:50:31 IST">
+      <class name="com.selenium.testcases.BankManagerLoginTest">
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:com.selenium.testcases.BankManagerLoginTest@6c130c45]" name="loginAsBankManager" duration-ms="3484" started-at="2020-05-16T11:50:28 IST" finished-at="2020-05-16T11:50:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+      </class> <!-- com.selenium.testcases.BankManagerLoginTest -->
+    </test> <!-- LoginTest -->
+    <test name="Add Customer Test" duration-ms="1195" started-at="2020-05-16T11:50:31 IST" finished-at="2020-05-16T11:50:32 IST">
+      <class name="com.selenium.testcases.AddCustomerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.testcases.AddCustomerTest@49c7b90e]" name="setUp" is-config="true" duration-ms="14604" started-at="2020-05-16T11:50:13 IST" finished-at="2020-05-16T11:50:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCustomer()[pri:0, instance:com.selenium.testcases.AddCustomerTest@49c7b90e]" name="addCustomer" duration-ms="1190" started-at="2020-05-16T11:50:31 IST" finished-at="2020-05-16T11:50:32 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Customer Added successfully]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"href="C:\Ajay\Selenium\TestNGLearning\screenshots\sample.jpg">Screenshot</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.testcases.AddCustomerTest@49c7b90e]" name="tearDown" is-config="true" duration-ms="857" started-at="2020-05-16T11:50:32 IST" finished-at="2020-05-16T11:50:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.testcases.AddCustomerTest -->
+    </test> <!-- Add Customer Test -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>
